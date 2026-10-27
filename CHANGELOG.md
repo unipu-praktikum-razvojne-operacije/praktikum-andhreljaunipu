@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/unipu-pro/praktikum-andhreljaunipu/compare/v1.0.0...v1.0.1) (2026-10-27)
+
+
+### Performance Improvements
+
+* move tests ([5e79d25](https://github.com/unipu-pro/praktikum-andhreljaunipu/commit/5e79d25def13e0637ef28edfd09740950440b674))
+
 ## 1.0.0 (2026-10-25)
 
 
