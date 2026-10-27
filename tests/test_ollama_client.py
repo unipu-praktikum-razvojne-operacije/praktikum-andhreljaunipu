@@ -1,4 +1,4 @@
-"""Reference solution: five unit tests for ollama_client (no running Ollama needed)."""
+"""Five unit tests for ollama_client (no running Ollama needed)."""
 import pytest
 import requests
 
